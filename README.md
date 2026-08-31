@@ -2,6 +2,10 @@
 
 # 🚦 Uptime Checker
 
+<div align="center">
+  <img src="./frontend/src/assets/preview.png" alt="Uptime Checker Preview" style="border-radius: 8px; margin: 15px 0;" />
+</div>
+
 Un sistema integral basado en microservicios diseñado para monitorizar el estado de tus sitios web de forma continua. Añade tus URLs y recibe notificaciones automáticas por correo electrónico en cuanto detectemos que uno de tus servicios ha dejado de responder.
 
 ---
