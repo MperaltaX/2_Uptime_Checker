@@ -1,3 +1,5 @@
+> ⚠️ **Requisito indispensable:** El único requisito para ejecutar este proyecto es tener instalado Docker (o Docker Desktop) en tu sistema. Puedes descargarlo según tu sistema operativo: [Windows](https://docs.docker.com/desktop/setup/install/windows-install/) | [Mac](https://docs.docker.com/desktop/setup/install/mac-install/) | [Linux](https://docs.docker.com/desktop/setup/install/linux/).
+
 # 🚦 Uptime Checker
 
 Un sistema integral basado en microservicios diseñado para monitorizar el estado de tus sitios web de forma continua. Añade tus URLs y recibe notificaciones automáticas por correo electrónico en cuanto detectemos que uno de tus servicios ha dejado de responder.
