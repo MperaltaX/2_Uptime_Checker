@@ -2,6 +2,16 @@
 
 # 🚦 Uptime Checker
 
+## 📹 Cómo Desplegarlo
+
+Mira el siguiente video tutorial para conocer todos los pasos necesarios para desplegar el proyecto:
+
+[![Uptime Checker - Tutorial de Despliegue](https://img.youtube.com/vi/8-xEuwSYXjM/maxresdefault.jpg)](https://youtu.be/8-xEuwSYXjM)
+
+[Ver video completo en YouTube](https://youtu.be/8-xEuwSYXjM)
+
+---
+
 <div align="center">
   <img src="./frontend/src/assets/preview.png" alt="Uptime Checker Preview" style="border-radius: 8px; margin: 15px 0;" />
 </div>
